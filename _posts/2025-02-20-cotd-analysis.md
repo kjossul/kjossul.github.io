@@ -37,15 +37,21 @@ So, where exactly did this decline start? Can Nadeo really do anything about it?
 
 First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To promote the game, Nadeo also allowed free to play users to enter in the following COTDs:
 
-| Date(s)                      | Promotion                 |
-|---------------------------|--------------------------|
-| 2022-07-08 to 2022-07-10  | Summer 2022 launch |
-| 2022-11-11 to 2022-11-13  | Green Weekend            |
-| 2023-09-04               | NeoCupra                 |
-| 2023-10-01 to 2023-10-08  | Fall 23 launch           |
-| 2023-10-23               | Laserhawk                |
-| 2024-02-05               | Hungry Sharks            |
+Here’s the cleaned-up version of the table without duplicates and still maintaining the two-column format:  
 
+| Date(s)                  | Promotion        | Date(s)                  | Promotion                |  
+|--------------------------|------------------|--------------------------|--------------------------|  
+| 2022-07-08 to 2022-07-11 | Summer 22 launch | 2022-10-10               | NeoCupra                 |  
+| 2022-10-24               | NeoCupra         | 2022-11-07               | NeoCupra                 |  
+| 2022-11-11 to 2022-11-13 | Green Weekend    | 2023-01-23               | NeoCupra                 |  
+| 2023-02-06               | NeoCupra         | 2023-02-20               | NeoCupra                 |  
+| 2023-03-06               | NeoCupra         | 2023-03-20               | NeoCupra                 |  
+| 2023-04-03               | NeoCupra         | 2023-06-19               | AC Mirage                |  
+| 2023-09-04               | NeoCupra         | 2023-09-11 to 2023-09-12 | Tech Issues Compensation |  
+| 2023-10-01 to 2023-10-08 | Fall 23 launch   | 2023-10-23               | Laserhawk                |  
+| 2023-12-12               | Lacoste1212      | 2024-02-05               | Hungry Sharks            |
+
+Now the table is compact and free of duplicate promotions while preserving all relevant dates. Let me know if you'd like any further adjustments! 🚀
 Another important date to remember is 15th May 2023, when the game was launched on consoles, since this brought a considerable amount of new players into the game mode. The releases of the three TMO cars (21st Nov 2023, 27th Feb 2024, 22nd May 2024) are also significant, as well as the beginning of 2024 when the pricing model changed. You'll find spikes (or dips) in the upcoming graphs around the dates mentioned above.
 
 In addition to this, the community has shown a bigger pull to special events, for instance on 29th July 2024 we had [Pyramidori](https://www.trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2), made by popular streamer **Wirtual** with scenery by **Oclavukixus**. Being the awaited sequel of Wirtual's previous COTD, [Midori](https://trackmania.io/#/leaderboard/tZROO7ZGFV5oSel3hyKrvZ60Xth), more players were interested in playing COTD on that day, with a player count of ~4000 players, while other tracks in the same week show player counts of low ~2000s. **Almost halved**.
@@ -72,6 +78,10 @@ While the total COTD size in 2022 has only a slightly margin over 2024 (though t
 {% include figure popup=true image_path="/assets/images/COTDAnalysis/rerun_size_graph.png" caption="7-days centered rolling average of **rerun players**, including reruns" %}
 {% include figure popup=true image_path="/assets/images/COTDAnalysis/new_players_graph.png" caption="7-days centered rolling average of **new players**" %}
 
-Observing the red line, we can see a **steady decline starting from late Spring**, and the main COTD size consistently stayed below 2500 players ever since, barring special occasions. Similar drop can be found in the new players graph and, while the magnitude of this statistics alone can't cover the gap of the overall player count, it's a worrying correlation. Interestingly, the **reruns seem to have consistent size** (though, there are certain types of maps that players like less, but I will talk about this in the next article), which could be partly explained by an increase in popularity of TM in North America, which is a big player base that doesn't have easy access to the main COTD due to timezone differences.
+Observing the red line, we can see a **steady decline starting from late Spring**, and the main COTD size consistently stayed below 2500 players ever since, barring special occasions. Similar drop can be found in the new players graph and, while the magnitude of this statistics alone can't cover the gap of the overall player count, it's a worrying correlation. Interestingly, the **reruns seem to have consistent size** (though, there are certain types of maps that players like less, but I will talk about this in the next article), which could be partly explained by an increase in popularity of TM in North America, a big player base that doesn't have easy access to the main COTD due to timezone differences. Still, not a big win, considering that the big push from console release doesn't seem to have lasted long.
 
 I'll leave any further deduction to the reader. I mean, you're the one not playing, so who better than yourself knows the answer?
+
+## Where is everyone?
+
+<img src="/assets/images/COTDAnalysis/travolta.gif">
