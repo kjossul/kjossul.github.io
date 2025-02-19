@@ -37,8 +37,6 @@ So, where exactly did this decline start? Can Nadeo really do anything about it?
 
 First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To promote the game, Nadeo also allowed free to play users to enter in the following COTDs:
 
-Here’s the cleaned-up version of the table without duplicates and still maintaining the two-column format:  
-
 | Date(s)                  | Promotion        | Date(s)                  | Promotion                |  
 |--------------------------|------------------|--------------------------|--------------------------|  
 | 2022-07-08 to 2022-07-11 | Summer 22 launch | 2022-10-10               | NeoCupra                 |  
@@ -51,7 +49,6 @@ Here’s the cleaned-up version of the table without duplicates and still mainta
 | 2023-10-01 to 2023-10-08 | Fall 23 launch   | 2023-10-23               | Laserhawk                |  
 | 2023-12-12               | Lacoste1212      | 2024-02-05               | Hungry Sharks            |
 
-Now the table is compact and free of duplicate promotions while preserving all relevant dates. Let me know if you'd like any further adjustments! 🚀
 Another important date to remember is 15th May 2023, when the game was launched on consoles, since this brought a considerable amount of new players into the game mode. The releases of the three TMO cars (21st Nov 2023, 27th Feb 2024, 22nd May 2024) are also significant, as well as the beginning of 2024 when the pricing model changed. You'll find spikes (or dips) in the upcoming graphs around the dates mentioned above.
 
 In addition to this, the community has shown a bigger pull to special events, for instance on 29th July 2024 we had [Pyramidori](https://www.trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2), made by popular streamer **Wirtual** with scenery by **Oclavukixus**. Being the awaited sequel of Wirtual's previous COTD, [Midori](https://trackmania.io/#/leaderboard/tZROO7ZGFV5oSel3hyKrvZ60Xth), more players were interested in playing COTD on that day, with a player count of ~4000 players, while other tracks in the same week show player counts of low ~2000s. **Almost halved**.
@@ -84,4 +81,18 @@ I'll leave any further deduction to the reader. I mean, you're the one not playi
 
 ## Where is everyone?
 
-<img src="/assets/images/COTDAnalysis/travolta.gif">
+<figure style="width: 400px" class="align: center">
+  <img src="/assets/images/COTDAnalysis/travolta.gif">
+</figure>
+
+Since free cups are a considerable source of new players, let's start with those first. **20808 players** had their first COTD being a free one, however only **31.87%** of this category has also played a paid COTD. In other words, about 2 out of 3 players that get introduced to COTD as a free to play aren't convinced enough to purchase the subscription. 
+
+This pattern can be also found if we divide the players depending on how many cups they have participated into:
+
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/participation_cdf.png" caption="Proportion of players that participated in a given amount of cups, based on whether their first cup was a free one or not. Only 13.3% of players introduced to COTD through free ones ends up playing more than 10 cups, compared to the 30.35% figure of the other group." %}
+
+Particularly significant conclusion from this graph is that **1 out of 4 players with paid access who enter COTD, never returns**.
+
+...What?
+
+Of course there are some outliers in this category, like [this absolute gigachad](https://www.trackmania.io/#/player/e4149e93-7666-42bf-a21a-e7a4dc2c4730/cotd), however I was interested in profiling the users in this group to understand better why they wouldn't return.
