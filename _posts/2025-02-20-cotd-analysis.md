@@ -24,15 +24,15 @@ Ok, ok. It's not *that* dramatic. Still, as I started getting slightly better at
 
 > <cite>You</cite>
 
-You're right!. Apparently, having a decent Stadium map consisting of any mix of tech road / dirt / grass / plastic is an increasingly more restricting requirement to be met, so I started simply closing the game when something outside this realm popped up. That's fine.
+You're right!. Apparently, having a *decent* Stadium map consisting of any mix of tech road / dirt / grass / plastic is an increasingly more restricting requirement to be met, so I started simply closing the game when something outside this realm popped up. That's fine.
 
-With this newfound evening time in my hands, my research begun. As I will show later on, COTD numbers have been in decline throughout all of 2024. Numbers aside, if you ask any of the veteran players, they'll likely tell you that the <span style="color:#AA6C39">*golden era*</span> of COTD is well past us. Open a <a href="#" onclick="this.href='https://www.trackmania.io/#/totd/2022-' + (Math.floor(Math.random() * 12) + 1)" target="_blank">random TOTD Month in 2022</a>, and you will likely see names of really good mappers that you don't see nowadays. Maps aside, the knockout format itself seems to have grown stale for many players, as [this Reddit discussion](https://www.reddit.com/r/TrackMania/comments/1h6o1mj/cotd_player_count_and_overall_health_of_the_game/) shows:
+With this newfound evening time in my hands, my research begun. As I will show later on, COTD numbers have been in decline throughout all of 2024. Numbers aside, if you ask any of the veteran players, they'll likely tell you that the <span style="color:#AA6C39">*golden era*</span> of COTD is well past us. Open a <a href="#" onclick="this.href='https://www.trackmania.io/#/totd/2022-' + (Math.floor(Math.random() * 12) + 1)" target="_blank">random TOTD Month in 2022</a>, and you will likely see names of really good mappers that you don't see nowadays. Maps aside, the knockout format itself seems to have grown stale for many players, as [this Reddit discussion](https://www.reddit.com/r/TrackMania/comments/1h6o1mj/cotd_player_count_and_overall_health_of_the_game/){:target="_blank"} shows:
 
 > The mode is over 4 years old by now so naturally there is going to be fatigue happening among players, both in terms of the maps that show up and the mode itself. When COTD was brand new I would effectively schedule my evening around being able to play it, now I only play if I happen to have time+feel like playing TM+map catching my interest (for better or worse reasoning). A lot of players around me went through a similar change in how they approached cotd and I don't think Nadeo has any way of getting this group to play daily again.
 
 > <cite>u/ZeemuisTM</cite>
  
-So, where exactly did this decline start? Can Nadeo really do anything about it? This first article aims to analyze raw numbers, and potentially discuss alternatives to the pure knockout format in light of the success of the recent [RedBull Faster](https://liquipedia.net/trackmania/Red_Bull_Faster) competition. In a future part 2 of this series, I'll try to delve more into TOTD maps themselves.
+So, where exactly did this decline start? Can Nadeo really do anything about it? This first article aims to analyze raw numbers, and potentially discuss alternatives to the pure knockout format in light of the success of the recent [RedBull Faster](https://liquipedia.net/trackmania/Red_Bull_Faster){:target="_blank"} competition. In a future part 2 of this series, I'll try to delve more into TOTD maps themselves.
 ## COTD History
 
 First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To promote the game, Nadeo also allowed free to play users to enter in the following COTDs:
@@ -51,11 +51,11 @@ First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To p
 
 Another important date to remember is 15th May 2023, when the game was launched on consoles, since this brought a considerable amount of new players into the game mode. The releases of the three TMO cars (21st Nov 2023, 27th Feb 2024, 22nd May 2024) are also significant, as well as the beginning of 2024 when the pricing model changed. You'll find spikes (or dips) in the upcoming graphs around the dates mentioned above.
 
-In addition to this, the community has shown a bigger pull to special events, for instance on 29th July 2024 we had [Pyramidori](https://www.trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2), made by popular streamer **Wirtual** with scenery by **Oclavukixus**. Being the awaited sequel of Wirtual's previous COTD, [Midori](https://trackmania.io/#/leaderboard/tZROO7ZGFV5oSel3hyKrvZ60Xth), more players were interested in playing COTD on that day, with a player count of ~4000 players, while other tracks in the same week show player counts of low ~2000s. **Almost halved**.
+In addition to this, the community has shown a bigger pull to special events, for instance on 29th July 2024 we had [Pyramidori](https://www.trackmania.io/#/leaderboard/D6gnMSccMV_QHo4KG5LREWvYti2){:target="_blank"}, made by popular streamer **Wirtual** with scenery by **Oclavukixus**. Being the awaited sequel of Wirtual's previous COTD, [Midori](https://trackmania.io/#/leaderboard/tZROO7ZGFV5oSel3hyKrvZ60Xth){:target="_blank"}, more players were interested in playing COTD on that day, with a player count of ~4000 players, while other tracks in the same week show player counts of low ~2000s. **Almost halved**.
 
 While this is surely a special occurrence, it at least shows that the game mode still has a potential player base that just doesn't bother opening the game for the "standard" cups.
 
-Alright, time for some graphs. The dataset I'm working on contains COTD information from its beginning **until end of 2024**. Keep in mind that some cups were broken by technical issues, so some player data is missing. However, being a somewhat rare occurrence, the dataset is big enough to show meaningful information over this game mode.
+Alright, time for some graphs. The dataset I'm working on contains COTD information from its beginning **until end of 2024**. Keep in mind that some cups were broken by technical issues, so some player data is missing. However, being a somewhat rare occurrence, the dataset is big enough to show meaningful information on this game mode.
 
 ## Player Participation
 
@@ -69,13 +69,13 @@ First, let's look at the aggregate data for each year:
     <figcaption>Total yearly sum of COTD sizes and how many players had their first COTD in that year.</figcaption>
 </figure>
 
-While the total COTD size in 2022 has only a slightly margin over 2024 (though that's still a problematic equivalence, since the mode wasn't able to retain the players that came from console), there's a staggering difference between the two years in terms of new players. Part of this is due to not having as many free COTDs in '24 (more on this later), however we can look better at the overall picture by plotting the day to day data. Since the graphs becomes hard to read with too many spikes, I've computed averages in 7-days centered windows.
+While the total COTD size in 2022 has only a slightly margin over 2024 (though that's still a problematic equivalence, since the mode wasn't able to retain the players that came from console), there's a staggering difference between the two years in terms of new players. Part of this is due to not having as many free COTDs in '24 (more on this later), however we can look better at the overall picture by plotting the day to day data. Since the graphs becomes hard to read with too many spikes, I've computed **averages in 7-days centered windows**. This also ensures all days of the week are considered together, since people might have more free time to play on the weekends for example.
 
-{% include figure popup=true image_path="/assets/images/COTDAnalysis/main_cotd_size_graph.png" caption="7-days centered rolling average of **main COTD players**" %}
-{% include figure popup=true image_path="/assets/images/COTDAnalysis/rerun_size_graph.png" caption="7-days centered rolling average of **rerun players**, including reruns" %}
-{% include figure popup=true image_path="/assets/images/COTDAnalysis/new_players_graph.png" caption="7-days centered rolling average of **new players**" %}
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/main_cotd_size_graph.png" caption="7-days centered rolling average of **main COTD players**." %}
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/rerun_size_graph.png" caption="7-days centered rolling average of **rerun players**, summed together." %}
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/new_players_graph.png" caption="7-days centered rolling average of **new players**." %}
 
-Observing the red line, we can see a **steady decline starting from late Spring**, and the main COTD size consistently stayed below 2500 players ever since, barring special occasions. Similar drop can be found in the new players graph and, while the magnitude of this statistics alone can't cover the gap of the overall player count, it's a worrying correlation. Interestingly, the **reruns seem to have consistent size** (though, there are certain types of maps that players like less, but I will talk about this in the next article), which could be partly explained by an increase in popularity of TM in North America, a big player base that doesn't have easy access to the main COTD due to timezone differences. Still, not a big win, considering that the big push from console release doesn't seem to have lasted long.
+Observing 2024 (the red line), we can see a **steady decline starting from late Spring**, and the main COTD size consistently stayed below 2500 players ever since, barring special occasions. Similar drop can be found in the new players graph and, while the magnitude of this element alone can't cover the gap of the overall player count, it's a worrying correlation. Interestingly, the **reruns seem to have consistent size** (though, there are certain types of maps that players like less, but I will talk about this in the next article), which could be partly explained by an increase in popularity of TM in North America, a big player base that doesn't have easy access to the main COTD due to timezone differences. Still, not a big win, considering that the big push from console release doesn't seem to have lasted long.
 
 I'll leave any further deduction to the reader. I mean, you're the one not playing, so who better than yourself knows the answer?
 
@@ -85,14 +85,21 @@ I'll leave any further deduction to the reader. I mean, you're the one not playi
   <img src="/assets/images/COTDAnalysis/travolta.gif">
 </figure>
 
-Since free cups are a considerable source of new players, let's start with those first. **20808 players** had their first COTD being a free one, however only **31.87%** of this category has also played a paid COTD. In other words, about 2 out of 3 players that get introduced to COTD as a free to play aren't convinced enough to purchase the subscription. 
+Since free cups are a considerable source of new players, let's start with those first. **20808 players** had their first COTD being a free one, however only **31.87%** of this category has also played a paid COTD. In other words, about 2 out of 3 players that get introduced to COTD as free to play aren't convinced enough to purchase the subscription. 
 
-This pattern can be also found if we divide the players depending on how many cups they have participated into:
+By looking at players with less than 10 cups played, we can clearly understand how majority of players stop playing COTD just after having tried it few times. 
 
 {% include figure popup=true image_path="/assets/images/COTDAnalysis/participation_cdf.png" caption="Proportion of players that participated in a given amount of cups, based on whether their first cup was a free one or not. Only 13.3% of players introduced to COTD through free ones ends up playing more than 10 cups, compared to the 30.35% figure of the other group." %}
 
-Particularly significant conclusion from this graph is that **1 out of 4 players with paid access who enter COTD, never returns**.
+Particularly significant conclusion from this graph is that **1 out of 4 players with paid access who enters COTD, never returns**.
 
-...What?
+...What? <img src="/assets/images/COTDAnalysis/WHAT-4x.gif" style="width: 40px">
 
-Of course there are some outliers in this category, like [this absolute gigachad](https://www.trackmania.io/#/player/e4149e93-7666-42bf-a21a-e7a4dc2c4730/cotd), however I was interested in profiling the users in this group to understand better why they wouldn't return.
+Of course there are some outliers, like [🇪🇪 Sandder](https://www.trackmania.io/#/player/e4149e93-7666-42bf-a21a-e7a4dc2c4730/cotd){:target="_blank"}, who I guess is waiting for competition to step up in TM2020 after dominating his one and only COTD (he didn't know there was a risky finish until halfway through KO, by the way!), and [🇩🇪 exetic.](https://www.trackmania.io/#/player/36690fca-1ba4-4829-a06f-5342c0fb8cbe/cotd){:target="_blank"}, who also won the first ever Desert Car COTD. 
+Beside these TMU players that stepped up for the occasion on alt car maps, majority of players in this category of one-timers with paid access are lower skilled players, with a **median percentile rank** of **top 85%**. Additionally, if we take the **timestamp of their record** on the leaderboard and subtract the time of COTD start, the resulting median is **just 11 minutes**! This means pretty much rage quitting COTD after quali and never touching the mode again. Here's the full density plot around these two metrics:
+
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/single_cotd_kdeplot.png" caption="Densitly plot of COTD ranks and time elapsed between PB timestamp and COTD start (in minutes), for players with paid access with a single COTD played. Players with a pb set 1h after COTD are grouped together." %}
+
+As we can see, many players in the graph belong in the lowest 40% of divs, and set their pb on the map inside the qualification period (**38%** of players fit these parameters). Finding most players in the top part of this graph makes sense, I think most can relate to performing worse in their first COTD. As mentioned before, more worrying is the fact that players generally don't bother improving their time after qualification. While these conclusions are somewhat expected, it's telling that many newcomers likely don't bother playing KO at all, or anyway don't care about TOTD anymore after being knocked out.
+
+Before I end with this article with considerations about the KO format itself, for completeness let's take a quick look at the players with >10 cups played, that I didn't talk about in these last few graphs:
