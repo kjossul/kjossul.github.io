@@ -35,7 +35,7 @@ With this newfound evening time in my hands, my research begun. As I will show l
 So, where exactly did this decline start? Can Nadeo really do anything about it? This first article aims to analyze raw numbers, and potentially discuss alternatives to the pure knockout format in light of the success of the recent [RedBull Faster](https://liquipedia.net/trackmania/Red_Bull_Faster){:target="_blank"} competition. In a future part 2 of this series, I'll try to delve more into TOTD maps themselves.
 ## COTD History
 
-First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To promote the game, Nadeo also allowed free to play users to enter in the following COTDs:
+First COTD was on 2nd Nov 2020, and reruns got introduced on 10th Aug 2021. To promote the game, Nadeo also allowed free to play users to enter in the following COTDs (thanks to Kuba for helping me gather these dates!):
 
 | Date(s)                  | Promotion        | Date(s)                  | Promotion                |  
 |--------------------------|------------------|--------------------------|--------------------------|  
@@ -102,4 +102,11 @@ Beside these TMU players that stepped up for the occasion on alt car maps, major
 
 As we can see, many players in the graph belong in the lowest 40% of divs, and set their pb on the map inside the qualification period (**38%** of players fit these parameters). Finding most players in the top part of this graph makes sense, I think most can relate to performing worse in their first COTD. As mentioned before, more worrying is the fact that players generally don't bother improving their time after qualification. While these conclusions are somewhat expected, it's telling that many newcomers likely don't bother playing KO at all, or anyway don't care about TOTD anymore after being knocked out.
 
-Before I end with this article with considerations about the KO format itself, for completeness let's take a quick look at the players with >10 cups played, that I didn't talk about in these last few graphs:
+Before I end with this article with considerations about the KO format itself, let's look at **paying players with > 10 cups** played that haven't played a single one in 2024. Among these **~26k players**, notable ones include [🇸🇰 Loso-](https://trackmania.io/#/player/87e4afbf-fb54-4d60-9ce1-b0698beab097/cotd){:target="_blank"} and [🇫🇷 Gwen_TM](https://trackmania.io/#/player/gwen/cotd){:target="_blank"}, as well as [🇨🇦 CarlJr.](https://trackmania.io/#/player/carljr/cotd){:target="_blank"} and [🏴󠁧󠁢󠁥󠁮󠁧󠁿 PacTM](https://trackmania.io/#/player/pac/cotd){:target="_blank"}, both returned with a win in 2025 after years of absence. This list of top players goes on and on, and honestly I felt pretty sad seeing popular names such as these not willing to participate in COTD anymore. 
+Here's the last graph of this article, which shows how these players are distributed based on their median frequency between COTD appearances. 
+
+{% include figure popup=true image_path="/assets/images/COTDAnalysis/players_2024noshow_frequency.png" caption="Distribution of paying players with >10 COTDs played, but no participation in 2024. Players with a median frequency of 7 days or higher are grouped together." %}
+
+Note how **more than half of these players** at some point **played daily, or every other day**. This to me indicates that COTD has an appeal to it that makes people return frequently in the short term, however after the initial hype players don't find the mode interesting anymore.
+
+Is it because of the maps? Is it because of the Knockout mode? Possibly both. I'd like to tackle the maps subject separately, because it's more complicated and possibly more controversial. Let's conclude this wall of text with a brief discussion on KO and its possible alternatives.
