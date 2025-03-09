@@ -75,7 +75,7 @@ While the total COTD size in 2022 has only a slight margin over 2024 (still a pr
 
 **Observing 2024 (the red line), there's a clear, steady decline starting from late spring**. Since then, the main COTD size has consistently stayed below 2'500 players — barring special occasions. A similar drop can be found in the new players graph and, while the magnitude of this element alone can't cover the gap of the overall player count, it's a worrying correlation. Interestingly, the **reruns seem to have consistent size**, which could be partly explained by an increase in popularity of TM in North America, a large player base that doesn't have easy access to the main COTD due to timezone differences. Still, it's not a big win, considering that the big push from consoles release doesn't seem to have lasted long.
 
-I'll leave any subsequent deductions to the reader. I mean, you're the one not playing, so who better than your knows the answer?
+I'll leave any subsequent deductions to the reader. I mean, you're the one not playing, so who better than you knows the answer?
 
 ## Where is everyone?
 
@@ -83,7 +83,7 @@ I'll leave any subsequent deductions to the reader. I mean, you're the one not p
   <img src="/assets/images/COTDAnalysis/travolta_cotd.gif">
 </figure>
 
-Since free cups introduce many new players, let's start with that. **20'808 player had their first COTD being a free one**, however, only 31.87% of this category have also played a paid COTD. In other words, **about 2 out of 3 players that get introduced to COTD as free-to-play aren't convinced enough to purchase the subscription**. 
+Since free cups introduce many new players, let's start with that. **20'808 player entered for free in their first COTD**, however, only 31.87% of this category have also played a paid COTD. In other words, **about 2 out of 3 players that get introduced to COTD as free-to-play aren't convinced enough to purchase the subscription**. 
 
 The following graph makes it very clear that most players stop playing COTD after just a few tries.
 
